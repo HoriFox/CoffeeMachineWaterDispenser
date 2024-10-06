@@ -3,4 +3,4 @@
 #### Решение:  
 * Ещё одна модификация к кофемашине, скоро она будет трансмормировать в дисептикона и разносить кофе самостоятельно  
 
-![Схема](https://github.com/HoriFox/CoffeeMachineWaterDispenser/blob/master/img/sheme.png)
+![Схема](https://github.com/HoriFox/CoffeeMachineWaterDispenser/blob/master/img/sheme_1.png)
